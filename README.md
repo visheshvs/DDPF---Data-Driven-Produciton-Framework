@@ -31,6 +31,7 @@ Key contributions include:
 ## Citation
 
 If you use this work in your research, please cite: 
+
 Singh, V. V. 2024. “Data-Driven Production Planning and Control using Work Density for On-Site Building Construction.” Ph.D. Dissertation, Civil and Environmental Engineering Department, University of California Berkeley. Available from Dissertations & Theses @ University of California; ProQuest Dissertations & Theses Global. (3111086031). Retrieved from https://escholarship.org/uc/item/2zt8g73j. 
 
 BibTeX:
